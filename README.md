@@ -64,10 +64,11 @@ If you need extra validation, I can provide code, screenshots, or student dashbo
 ## 💬 Contact
 
 📩 Email: juanmarredondo99[arroba]gmail.com  
-🌐 UpWork: https://www.upwork.com/freelancers/~01f977dbce6e652667  
-🐙 GitHub: https://github.com/juanmarredondo99  
+🌐 UpWork: https://www.upwork.com/freelancers/~01f977dbce6e652667?viewMode=1
+🐙 GitHub: https://github.com/juanmarredondo99-eng
 
 ---
 
 ⭐ If you are a client reviewing my past studies — thank you!  
 I look forward to delivering value through dashboards, automation and analytics work.
+
